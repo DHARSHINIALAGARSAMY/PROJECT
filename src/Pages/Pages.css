@@ -1,0 +1,61 @@
+    .menu{
+    background-image:url('bg2.jpeg');
+    background-repeat:no-repeat;
+    background-size: 100%;
+    font-size:25px;
+    color:white;
+    width: auto;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+  }
+  .lg{
+    font-size: 55px;
+  }
+  .xlg{
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .mt{
+    margin-top: 40px;
+  }
+  .dropmenu{
+    margin-left: 20%;
+  }
+  .about{
+    background-image:url('res.jpg');
+    background-repeat:no-repeat;
+    background-size: 100%;
+    font-size:25px;
+    color:white;
+    width: auto;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+  }
+
+  .facilities{
+    background-image:url('white.jpg');
+    background-repeat:no-repeat;
+    background-size: 100%;
+    font-size:25px;
+    color:black;
+    width: auto;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+  }
+ .menu img{
+    height: 100%;
+    width: 100%; 
+ }
